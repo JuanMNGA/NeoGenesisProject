@@ -527,10 +527,11 @@
 1387366047 /home/juanmi/Projects/NeoGenesisProject/Class/Menu.h
 	"Player.h"
 
-1387365994 /home/juanmi/Projects/NeoGenesisProject/Class/Player.h
+1388021725 /home/juanmi/Projects/NeoGenesisProject/Class/Player.h
 	"../sfml.h"
 	"Atributes.h"
 	"Races.h"
+	"Estado.h"
 
 1387365764 /home/juanmi/Projects/NeoGenesisProject/sfml.h
 	"SFML/Graphics.hpp"
@@ -545,19 +546,32 @@
 	<iostream>
 	<stdio.h>
 
-1387366024 source:/home/juanmi/Projects/NeoGenesisProject/Class/Player.cpp
+1388508975 source:/home/juanmi/Projects/NeoGenesisProject/Class/Player.cpp
 	"Player.h"
 	<cmath>
 
 1387365424 source:/home/juanmi/Projects/NeoGenesisProject/Class/Races.cpp
 	"Races.h"
 
-1387371781 source:/home/juanmi/Projects/NeoGenesisProject/main.cpp
+1388751488 source:/home/juanmi/Projects/NeoGenesisProject/main.cpp
 	"include.h"
 	<iostream>
 
-1387365854 /home/juanmi/Projects/NeoGenesisProject/include.h
+1388500603 /home/juanmi/Projects/NeoGenesisProject/include.h
 	"sfml.h"
 	"Class/Player.h"
 	"Class/Menu.h"
+	"Class/Map.h"
+
+1387558859 source:/home/juanmi/Projects/NeoGenesisProject/Class/Estado.cpp
+	"Estado.h"
+
+1388019444 /home/juanmi/Projects/NeoGenesisProject/Class/Estado.h
+
+1388506060 source:/home/juanmi/Projects/NeoGenesisProject/Class/Map.cpp
+	"Map.h"
+
+1388506060 /home/juanmi/Projects/NeoGenesisProject/Class/Map.h
+	<vector>
+	"../sfml.h"
 

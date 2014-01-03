@@ -47,6 +47,18 @@
 		<Unit filename="Class/Atributes.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Class/Estado.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Class/Estado.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Class/Map.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Class/Map.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Class/Menu.cpp">
 			<Option target="Debug" />
 		</Unit>

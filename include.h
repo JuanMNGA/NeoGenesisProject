@@ -3,4 +3,5 @@
 #include "sfml.h"
 #include "Class/Player.h"
 #include "Class/Menu.h"
+#include "Class/Map.h"
 #endif
